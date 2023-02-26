@@ -10,10 +10,6 @@ Croustibat est un poisson rouge <i>(et orange)</i> qui voulait prendre le large�
 
 Voici d’où vient mon [inspiration](https://fotomelia.com/wp-content/uploads/edd/2015/01/poisson-rouge-dans-une-bulle-et-chat-1560x1560.jpg).
 
-## Résultat
-
-[En ligne](https://samantha-javoy.github.io/fish-CSS-HTML/)
-
 <details>
     <summary>Si tu veux rire</summary>
 
